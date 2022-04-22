@@ -18,7 +18,7 @@ The game dives directly into a small adventure where the player has to find some
 dialogue system, combat system, shopping system, inventory system, scene management, camera management and more.
 
 Ending notes:
-Feel free to ask for the files of the game. I would be more than happy to share. Due to the volume of those, I was unable to simply upload them in GitHub.
+Feel free to ask for the files of the game. I would be more than happy to share. Due to the volume of those, I was unable to simply upload them in GitHub. Also, apologies if the quality of the video is poor, that is mostly because of my machine but I do hope you will appreiate the effort :D.
 
 Thank you for your time! I really hope you enjoy!
 
